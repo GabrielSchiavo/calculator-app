@@ -23,12 +23,9 @@ class CalculatorState extends State<Calculator> {
   @override
   Widget build(BuildContext context) {
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
-    
-    // Altera a cor de fundo da statusbar e dos ícones
-    const SystemUiOverlayStyle(
-      statusBarColor: Color(0xFF202020),
-      statusBarIconBrightness: Brightness.light,
-      statusBarBrightness: Brightness.dark,
+    SystemChrome.setSystemUIOverlayStyle(
+      //cor definida como transparente
+      const SystemUiOverlayStyle(statusBarColor: Colors.transparent),
     );
 
     return MaterialApp(
