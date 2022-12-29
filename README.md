@@ -1,8 +1,8 @@
 # calculator-app
 
 <p align="left">
-   <!-- <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/> -->
-   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
+   <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
    <img src="https://img.shields.io/github/license/GabrielSchiavo/meals-app?color=blue&style=for-the-badge"/>
 </p>
 
@@ -13,8 +13,8 @@ App de calculadora desenvolvido com a linguagem Dart e framework Flutter.
 
 <br>
 <div display: inline_block align="center">
-   <!-- <img src="./assets/images/screenshots/screenshot-01.png" width="300" alt="Screenshot tela login"/>
-   <img src="./assets/images/screenshots/screenshot-02.png" width="300" alt="Screenshot tela inicial"/> -->
+   <img src="./assets/images/screenshots/screenshot_01.png" width="300" alt="Screenshot tela icial"/>
+   <img src="./assets/images/screenshots/screenshot_02.png" width="300" alt="Screenshot tela icial 2"/>
 </div>
 
 ## :file_folder: Acesso ao projeto
