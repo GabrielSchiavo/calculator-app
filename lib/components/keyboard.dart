@@ -9,9 +9,14 @@ class Keyboard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Obtem o tamanho do dispositivo
+    final deviceSize = MediaQuery.of(context).size;
+
     return Container(
       color: const Color(0xFF202020),
-      height: 550,
+      //Multiplica a altura do dispositivo por 70% (0.70)
+      height: deviceSize.height * 0.70,
+      
       child: Padding(
         padding: const EdgeInsets.all(6),
         child: Column(
