@@ -40,4 +40,5 @@ Agora ao abrir o projeto com o Visual Studio Code, abra o arquivo "main.dart" lo
 * `Flutter - 3.3.6`
 * `flutter launcher icons - 0.10.0`
 * `flutter native splash - 2.2.14`
+* `auto_size_text - 3.0.0`
 * `Material Design 3`
