@@ -25,8 +25,7 @@ class Display extends StatelessWidget {
                 maxLines: 1,
                 textAlign: TextAlign.end,
                 style: TextStyle(
-                  fontFamily: 'RobotoFlex',
-                  fontWeight: FontWeight.w100,
+                  fontFamily: 'Montserrat',
                   decoration: TextDecoration.none,
                   fontSize: 80,
                   color: Theme.of(context).colorScheme.background,

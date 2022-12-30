@@ -33,12 +33,11 @@ class CalculatorState extends State<Calculator> {
       theme: ThemeData(
         colorSchemeSeed: const Color(0xFF8ACEFF),
         useMaterial3: true,
-        fontFamily: 'RobotoFlex',
+        fontFamily: 'Montserrat',
       ),
       debugShowCheckedModeBanner: false,
-      home: SafeArea(
-        top: false,
-        child: Column(
+      home: Scaffold(
+        body: Column(
           children: <Widget>[
             Display(memory.value),
             Keyboard(_onPressed),

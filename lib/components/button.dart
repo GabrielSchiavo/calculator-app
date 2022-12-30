@@ -49,7 +49,7 @@ class Button extends StatelessWidget {
           text,
           style: TextStyle(
             color: text == '=' ? Colors.black : Colors.white,
-            fontFamily: 'RobotoFlex',
+            fontFamily: 'Montserrat',
             fontSize: 32,
             fontWeight: FontWeight.w200,
           ),
